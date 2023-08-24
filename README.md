@@ -1,2 +1,3 @@
 # PDA-Fault-Diagnosis
-PDA场景下的旋转机械故障诊断，包含一些常用的DA算法的对比
+"Duplex Adversarial Domain Discriminative Network for Cross-Domain Partial Transfer Fault Diagnosis" paper's pytorch code
+Our code will be made public after receiving it, and you are welcome to quote it
