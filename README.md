@@ -17,14 +17,14 @@ Please manually download the datasets CWRU(https://engineering.case.edu/bearingd
 If you find this code useful for your research, please cite our paper
 
 > @inproceedings{liu2023duplex,  
->  &nbsp; &nbsp;  title={Duplex adversarial domain discriminative network for cross-domain partial transfer fault diagnosis},  
->  &nbsp; &nbsp;  author={Liu, Fuqiang and Deng, Wenlong and Duan, Chaoqun and Qin, Yi and Luo, Jun and Pu, Huayan},  
->  &nbsp; &nbsp;  journal={Knowledge-Based Systems},
->  &nbsp; &nbsp;  volume={279},
->  &nbsp; &nbsp;  pages={110960},  
->  &nbsp; &nbsp;  year={2023}, 
->  &nbsp; &nbsp;  publisher={Elsevier} 
-> }
+title={Duplex adversarial domain discriminative network for cross-domain partial transfer fault diagnosis},  
+author={Liu, Fuqiang and Deng, Wenlong and Duan, Chaoqun and Qin, Yi and Luo, Jun and Pu, Huayan},  
+journal={Knowledge-Based Systems},
+volume={279},
+pages={110960},  
+year={2023}, 
+publisher={Elsevier} 
+}
 
 ### Acknowledgement
 
