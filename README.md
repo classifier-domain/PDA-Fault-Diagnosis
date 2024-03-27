@@ -22,8 +22,7 @@ If you find this code useful for your research, please cite our paper
 >  &nbsp; &nbsp;  volume={279}, 
 >  &nbsp; &nbsp;  pages={110960}, 
 >  &nbsp; &nbsp;  year={2023}, 
->  &nbsp; &nbsp;  ssss
->  &nbsp; &nbsp;  ssss
+>  &nbsp; &nbsp;  publisher={Elsevier}
 > 
 >
 > }
