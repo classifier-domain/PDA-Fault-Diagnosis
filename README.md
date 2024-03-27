@@ -15,13 +15,13 @@ Please manually download the datasets CWRU(https://engineering.case.edu/bearingd
 
 ### Citation
 If you find this code useful for your research, please cite our paper
-> @inproceedings{liang2020baus,  
->  &nbsp; &nbsp;  title={A Balanced and Uncertainty-aware Approach for Partial Domain Adaptation},  
->  &nbsp; &nbsp;  author={Liang, Jian, and Wang, Yunbo, and Hu, Dapeng, and He, Ran and Feng, Jiashi},  
->  &nbsp; &nbsp;  booktitle={European Conference on Computer Vision (ECCV)},  
->  &nbsp; &nbsp;  pages={xx-xx},  
->  &nbsp; &nbsp;  month = {August},  
->  &nbsp; &nbsp;  year={2020}  
+> @inproceedings{liu2023duplex, 
+>  &nbsp; &nbsp;  title={Duplex adversarial domain discriminative network for cross-domain partial transfer fault diagnosis},  
+>  &nbsp; &nbsp;  author={Liu, Fuqiang and Deng, Wenlong and Duan, Chaoqun and Qin, Yi and Luo, Jun and Pu, Huayan},  
+>  &nbsp; &nbsp;  journal={Knowledge-Based Systems},  
+>  &nbsp; &nbsp;  volume={279}, 
+>  &nbsp; &nbsp;  pages={110960}, 
+>  &nbsp; &nbsp;  year={2023}, 
 >  &nbsp; &nbsp;  ssss
 >  &nbsp; &nbsp;  ssss
 > 
