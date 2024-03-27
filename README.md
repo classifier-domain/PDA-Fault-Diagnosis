@@ -20,10 +20,7 @@ If you find this code useful for your research, please cite our paper
 title={Duplex adversarial domain discriminative network for cross-domain partial transfer fault diagnosis},  
 author={Liu, Fuqiang and Deng, Wenlong and Duan, Chaoqun and Qin, Yi and Luo, Jun and Pu, Huayan},  
 journal={Knowledge-Based Systems},
-volume={279},
-pages={110960},  
 year={2023}, 
-publisher={Elsevier} 
 }
 
 ### Acknowledgement
