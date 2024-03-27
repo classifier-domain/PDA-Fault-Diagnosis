@@ -32,5 +32,5 @@ If you find this code useful for your research, please cite our paper
 ### Acknowledgement
 
 Some parts of this project are built based on the following open-source implementation
-BA3US [https://github.com/tim-learn/BA3US]
-thuml [https://github.com/thuml/Transfer-Learning-Library]
+- BA3US [https://github.com/tim-learn/BA3US]
+- thuml [https://github.com/thuml/Transfer-Learning-Library]
