@@ -4,7 +4,7 @@
 ![](https://github.com/classifier-domain/PDA-Fault-Diagnosis/blob/main/image/jiegou.png)
 
 ### Prerequisites:
-- python == 3.6.8
+- python == 3.9
 - pytorch ==1.1.0
 - torchvision == 0.3.0
 - numpy, scipy, PIL, argparse, tqdm
@@ -12,9 +12,6 @@
 ### Dataset:
 
 Please manually download the datasets CWRU(https://engineering.case.edu/bearingdatacenter/download-data-file)
-
-
-
 
 ### Citation
 If you find this code useful for your research, please cite our paper
